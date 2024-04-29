@@ -1,0 +1,58 @@
+#EXTM3U url-tvg="https://www.sat-israel.co.il/files/guide-int.xml.gz" x-tvg-url="https://www.sat-israel.co.il/files/guide-main.xml.gz"
+
+#EXTINF:-1 tvg-country="IL" tvg-id="Kan 11" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg" group-title="Israel",IL | Ch 11 Kan HD
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="IL" tvg-id="Reshet 13" group-title="Israel",IL | Ch 13 Reshet HD
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-country="IL" tvg-id="now 14" group-title="Israel",IL | Ch 14 Now HD
+https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/4/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-country="IL" tvg-id="Shopping Channel" group-title="Israel",IL | Shopping Channel
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+
+
+#EXTINF:-1 tvg-country="FR" tvg-id="France 2" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2
+https://origin-fra01.pzaz.tv/live/france-2-hd/tracks-v3a1/mono.m3u8?token=6603992-fafe6805-5c6d-4e19-9f46-a9d2e1a4770d
+
+#EXTINF:-1 tvg-country="FR" tvg-id="France 3" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3 (Source-1)
+http://livetv.ktv.zone/5/play.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-id="France 3" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3 (Source-2)
+https://s12.tntendirect.com/france3/live/chunks.m3u8
+
+
+#EXTINF:-1 tvg-country="FR" tvg-id="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5 (Source-1)
+http://livetv.ktv.zone/7/play.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-id="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5 (Source-2)
+https://s12.tntendirect.com/france5/live/chunks.m3u8
+
+#EXTINF:-1 tvg-country="FR" tvg-id="ARTE" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE (Source-1)
+http://livetv.ktv.zone/9/play.m3u8
+
+#EXTINF:-1 tvg-country="FR" tvg-id="FRANCE 24 F" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 (Source-1)
+https://www.youtube.com/watch?v=gxG3pdKvlIs
+#EXTINF:-1 tvg-country="FR" tvg-id="FRANCE 24 F" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 (Source-2)
+http://81.94.196.204/tsstreamer/France24_HD.ts
+#EXTINF:-1 tvg-country="FR" tvg-id="FRANCE 24 F" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 (Source-3)
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/880
+#EXTINF:-1 tvg-country="FR" tvg-id="FRANCE 24 F" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 (Source-4)
+http://181.189.243.254:8000/play/a0pu/index.m3u8
+
+
+#EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe FHD
+https://raw.githubusercontent.com/yonatand1230/tv/master/tv5-fhd.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe HD
+https://raw.githubusercontent.com/yonatand1230/tv/master/tv5-hd.m3u8
+
+#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Morocco",MA | Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+
+#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://foutni.com/wp-content/uploads/2015/06/MEDI-1-TV-Logo-300x300-150x150.jpg" group-title="Morocco",MA | Medi 1 TV
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w1036343326_b978000_DVR_slar.m3u8
+
+#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://foutni.com/wp-content/uploads/2015/06/12642517135_7a8984a490-150x150.jpg" group-title="Morocco",MA | Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
