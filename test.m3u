@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="51",ספורט1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jIQytsPF+U8XqsdI7p5aAg", "kid": "W/UKpRU9560eS83zumvkEA"}], "type": "temporary"}
-http://192.168.68.124/sport1mpd
