@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",DEFAULT="YES",NAME="pol",LANGUAGE="pol",URI="https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?bitrate=128000&audioId=1&lang=pol&renditions&fmp4"
+
+#EXT-X-STREAM-INF:BANDWIDTH=3597200,AVERAGE-BANDWIDTH=3128000,CODECS="hev1.1.2.L120.90,mp4a.40.2",RESOLUTION=1280x720,AUDIO="aac"
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?bitrate=3000000&videoId=4&renditions&fmp4
